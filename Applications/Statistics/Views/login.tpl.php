@@ -2,7 +2,7 @@
 <html lang="zh">
 <head>
   <meta charset="utf-8">
-  <title>WorkerMan-集群统计与监控</title>
+  <title>中化金服-接口统计与监控</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <meta name="author" content="">
@@ -47,7 +47,7 @@
 				</h4> 
 			</div>
 		<?php }?>
-			<h1>workerman管理员登录</h1>
+			<h1>管理员登录</h1>
 			<form role="form" method="POST" action="">
 				<div class="form-group">
 					 <label>用户名</label><input type="text" name="admin_name" class="form-control" />
